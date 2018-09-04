@@ -10,5 +10,7 @@ package mela;
  * @author dev3
  */
 public class Mela {
-    
+    public static void main (String args[]){
+        System.out.println("hello");
+    }
 }
